@@ -40,13 +40,14 @@
        MTD comparisons and % growth indicators
    
    YTD Weekly Sales Trend (Line Chart): Shows sales fluctuations over time to identify peak and low-performing periods.
+
    Sales by Body Style (Donut Chart): Breaks down sales contribution by SUV, Sedan, Hatchback, Passenger, and Hardtop.
    
-       Sales by Color (Donut Chart): Highlights customer color preferences impacting inventory planning.
+   Sales by Color (Donut Chart): Highlights customer color preferences impacting inventory planning.
+
+   Dealer Region Map (Geo Map): Visualizes car sales distribution across regions for geographic performance analysis.
    
-       Dealer Region Map (Geo Map): Visualizes car sales distribution across regions for geographic performance analysis.
-   
-       Company-wise Sales Table: Displays brand-level insights including:
+   Company-wise Sales Table: Displays brand-level insights including:
        Average price,
        Cars sold,
        Total sales,
@@ -60,6 +61,6 @@
     Enabled pricing analysis through average price trends
     Improved decision-making speed with real-time interactive reporting
 
-6. What the Dashabord looks like
+7. What the Dashabord looks like
   https://github.com/Dharashah99/Car-Sales-Dashaboard-/blob/main/Car_Sales_Dashboard.png
     
