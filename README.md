@@ -42,10 +42,10 @@
     Dealer Region Map (Geo Map): Visualizes car sales distribution across regions for geographic performance analysis.
    
     Company-wise Sales Table: Displays brand-level insights including:
-    Average price
-    Cars sold
-    Total sales
-    % contribution to YTD sales
+    Average price,
+    Cars sold,
+    Total sales,
+    % contribution to YTD sales,
     Interactive Filters: Body style, dealer name, transmission, and engine type for dynamic exploration.
 
    Business Impact and Insights
