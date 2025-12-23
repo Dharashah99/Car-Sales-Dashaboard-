@@ -51,4 +51,5 @@
     Improved decision-making speed with real-time interactive reporting
 
 6. What the Dashabord lloks like
+   https://github.com/Dharashah99/Car-Sales-Dashaboard-/blob/main/Car_Sales_Dashboard.png
     
