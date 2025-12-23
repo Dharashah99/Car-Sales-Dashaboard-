@@ -1,4 +1,4 @@
-1. Project Title 
+1. Project Title : 
    Car Sales Dashboard – Sales Performance & Trend Analysis
    
 2. Short Description / Purpose
