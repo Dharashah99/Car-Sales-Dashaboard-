@@ -7,14 +7,20 @@
    and brand-wise trends, enabling data-driven business decisions.
    
 3. Tech Stack
+   
    📊 Microsoft Power BI – Data modeling & visualization
+   
    🧮 DAX (Data Analysis Expressions) – Measures and KPIs (YTD, MTD, % growth)
+   
    📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+   
    📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation
+   
    📁 Excel / CSV – Source data
+   
    🗺️ Bing Maps – Regional sales visualization
    
-4. Features and Highlights:
+5. Features and Highlights:
    
    Business Problem :The business lacked a centralized and interactive view to track car sales performance across brands, regions, and product attributes.
    Manual reporting made it difficult to identify trends, top-performing dealers, and revenue drivers.
@@ -55,6 +61,6 @@
     Enabled pricing analysis through average price trends
     Improved decision-making speed with real-time interactive reporting
 
-5. What the Dashabord looks like
+6. What the Dashabord looks like
   https://github.com/Dharashah99/Car-Sales-Dashaboard-/blob/main/Car_Sales_Dashboard.png
     
