@@ -39,9 +39,8 @@
        YTD Cars Sold
        MTD comparisons and % growth indicators
    
-       YTD Weekly Sales Trend (Line Chart): Shows sales fluctuations over time to identify peak and low-performing periods.
-   
-       Sales by Body Style (Donut Chart): Breaks down sales contribution by SUV, Sedan, Hatchback, Passenger, and Hardtop.
+   YTD Weekly Sales Trend (Line Chart): Shows sales fluctuations over time to identify peak and low-performing periods.
+   Sales by Body Style (Donut Chart): Breaks down sales contribution by SUV, Sedan, Hatchback, Passenger, and Hardtop.
    
        Sales by Color (Donut Chart): Highlights customer color preferences impacting inventory planning.
    
