@@ -23,7 +23,7 @@
 5. Features and Highlights:
    
    Business Problem :The business lacked a centralized and interactive view to track car sales performance across brands, regions, and product attributes.
-   Manual reporting made it difficult to identify trends, top-performing dealers, and revenue drivers.
+      Manual reporting made it difficult to identify trends, top-performing dealers, and revenue drivers.
 
    Goal of the Dashboard :
       Track YTD & MTD sales performance
@@ -33,26 +33,26 @@
       Support strategic and operational decision-making
    
    Walkthrough of Key Visuals
-    KPI Cards:
-    YTD Total Sales
-    YTD Average Price
-    YTD Cars Sold
-    MTD comparisons and % growth indicators
+       KPI Cards:
+       YTD Total Sales
+       YTD Average Price
+       YTD Cars Sold
+       MTD comparisons and % growth indicators
    
-    YTD Weekly Sales Trend (Line Chart): Shows sales fluctuations over time to identify peak and low-performing periods.
+       YTD Weekly Sales Trend (Line Chart): Shows sales fluctuations over time to identify peak and low-performing periods.
    
-    Sales by Body Style (Donut Chart): Breaks down sales contribution by SUV, Sedan, Hatchback, Passenger, and Hardtop.
+       Sales by Body Style (Donut Chart): Breaks down sales contribution by SUV, Sedan, Hatchback, Passenger, and Hardtop.
    
-    Sales by Color (Donut Chart): Highlights customer color preferences impacting inventory planning.
+       Sales by Color (Donut Chart): Highlights customer color preferences impacting inventory planning.
    
-    Dealer Region Map (Geo Map): Visualizes car sales distribution across regions for geographic performance analysis.
+       Dealer Region Map (Geo Map): Visualizes car sales distribution across regions for geographic performance analysis.
    
-    Company-wise Sales Table: Displays brand-level insights including:
-    Average price,
-    Cars sold,
-    Total sales,
-    % contribution to YTD sales,
-    Interactive Filters: Body style, dealer name, transmission, and engine type for dynamic exploration.
+       Company-wise Sales Table: Displays brand-level insights including:
+       Average price,
+       Cars sold,
+       Total sales,
+       % contribution to YTD sales,
+       Interactive Filters: Body style, dealer name, transmission, and engine type for dynamic exploration.
 
    Business Impact and Insights
     Identified top-performing brands and dealers driving majority of revenue
