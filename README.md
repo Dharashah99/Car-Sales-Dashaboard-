@@ -62,7 +62,8 @@
     Improved decision-making speed with real-time interactive reporting
 
 7. What the Dashabord looks like
-<img width="1373" height="763" alt="Car_Sales_Dashboard" src="https://github.com/user-attachments/assets/9ec2d99c-4d73-49c9-927b-0027133eff23" />
+<img width="1367" height="767" alt="Car_Sales_Dashboard" src="https://github.com/user-attachments/assets/14b72c54-8f07-4f20-856d-9a505a6e9643" />
+
 
 
     
