@@ -61,7 +61,7 @@
     Enabled pricing analysis through average price trends
     Improved decision-making speed with real-time interactive reporting
 
-7. What the Dashabord looks like
+7. What the Dashboard looks like
 <img width="1367" height="767" alt="Car_Sales_Dashboard" src="https://github.com/user-attachments/assets/14b72c54-8f07-4f20-856d-9a505a6e9643" />
 
 
